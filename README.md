@@ -40,7 +40,7 @@ git clone git@github.com:mr-ryan12/romcom.git
 open index.html  
 
 ## Website Link :
-![RomCom Generator](https://mr-ryan12.github.io/romcom/)
+https://mr-ryan12.github.io/romcom/
 
 ## Contributors :
 Repository Contributors :
