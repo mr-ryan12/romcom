@@ -14,25 +14,26 @@ This webpage is a RomCom book cover generator. Users can generate covers randoml
 ## Project Specs :
 
 A new cover is randomly generated upon page load.
-![Reload Random Cover](https://user-images.githubusercontent.com/42048868/138614174-f8f815e4-4ad2-45aa-a105-6fbfa16b8205.mov)
+![Reload Random Cover](![giphy-2](https://user-images.githubusercontent.com/42048868/138620007-0a2057ee-92eb-44c0-854a-5d52c61f8dd1.gif)
 
 A new cover is randomly generated when clicking on the Show New Random Cover button
-![New Cover on Click](https://user-images.githubusercontent.com/42048868/138614301-b1606e1b-33f6-4cc5-a8cd-a7e33bd61c9b.mov)
+![New Cover on Click](![giphy-6](https://user-images.githubusercontent.com/42048868/138620359-fcc3dc98-0435-48f3-92b4-df9881669d53.gif)
 
 Users can create custom covers
-![User Creation](https://user-images.githubusercontent.com/42048868/138615726-46cc610a-f1b2-443c-90c8-74aed68dcd11.mov)
+![User Creation](![giphy](https://user-images.githubusercontent.com/42048868/138618421-51d50b9b-fd27-4b8c-a8e0-55cd1f735e44.gif)
 
 Covers can be saved using the Save Cover button
-![Saved Cover](https://user-images.githubusercontent.com/42048868/138615790-86eb9685-eadb-44c0-8c5b-affe8670a601.mov)
+![Saved Cover](![giphy-4](https://user-images.githubusercontent.com/42048868/138620207-96b8e67a-a412-4344-84e1-d2adcf761f76.gif)
 
 Saved covers can be viewed using the View Saved Covers button
-![View Saved Covers](https://user-images.githubusercontent.com/42048868/138615873-c2354ded-bcfa-4cd4-8f78-59347622b45c.mov)
+![View Saved Covers](![giphy-5](https://user-images.githubusercontent.com/42048868/138620311-ae13d545-fed7-42cd-85e5-f78b4635ca7e.gif)
 
 Saved covers can be deleted with a double click
-![Delete double click](https://user-images.githubusercontent.com/42048868/138615935-9fa9086d-3d24-4acc-9a6b-aa26dc51b187.mov)
+![Delete double click](![giphy-1](https://user-images.githubusercontent.com/42048868/138619884-d5311385-5d59-48b5-a3e4-613a9865e4a2.gif)
+)
 
 Duplicates will not be saved if the Save Cover button is clicked twice for the same cover
-![No Duplicates](https://user-images.githubusercontent.com/42048868/138616306-8574f175-1262-4b68-9713-8e39fc06c238.mov)
+![No Duplicates](![giphy-3](https://user-images.githubusercontent.com/42048868/138620104-5d83f864-7c8a-4b49-90c0-b7ac903df6b7.gif))
 
 ## How to install and use :
 in your terminal run:
