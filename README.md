@@ -39,7 +39,7 @@ Saved covers can be deleted with a double click
 
 
 Duplicates will not be saved if the Save Cover button is clicked twice for the same cover   
- 
+
 ![giphy-3](https://user-images.githubusercontent.com/42048868/138620104-5d83f864-7c8a-4b49-90c0-b7ac903df6b7.gif)    
 
 ## How to install and use :   
@@ -48,7 +48,7 @@ git clone git@github.com:mr-ryan12/romcom.git
 open index.html      
 
 ## Website Link :  
-![RomCom Generator](https://mr-ryan12.github.io/romcom/)    
+- [RomCom Generator](https://mr-ryan12.github.io/romcom/)    
 
 ## Contributors :  
 Repository Contributors :    
